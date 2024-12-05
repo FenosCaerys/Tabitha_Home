@@ -1,0 +1,4 @@
+
+Après l'hébergement:
+- Déclarer son site à google : https://search.google.com/
+- Vérifier le responsive sur mobile avec https://search.google.com/test/mobile-friendly
